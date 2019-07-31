@@ -1,0 +1,23 @@
+# ignore package
+# pysqlite==2.6.3 from: apt-get install sqlite
+# ...
+# Flask==0.10.1 upgrade
+Flask
+Flask-Cors
+Flask-MySQL
+Flask-SQLAlchemy
+Flask-WTF
+flask-mongoengine
+Flask-Cache
+Flask-Migrate
+paramiko
+requests
+flasgger
+pymysql
+sqlalchemy
+redis
+ipy
+pykafka
+pika
+retrying
+celery
